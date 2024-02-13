@@ -1,0 +1,9 @@
+D:\Борисов БЭИС-22\PR1_git\PR1_git\bin\Debug\PR1_git.exe
+D:\Борисов БЭИС-22\PR1_git\PR1_git\bin\Debug\PR1_git.pdb
+D:\Борисов БЭИС-22\PR1_git\PR1_git\obj\x86\Debug\PR1_git.Form1.resources
+D:\Борисов БЭИС-22\PR1_git\PR1_git\obj\x86\Debug\PR1_git.Properties.Resources.resources
+D:\Борисов БЭИС-22\PR1_git\PR1_git\obj\x86\Debug\PR1_git.csproj.GenerateResource.Cache
+D:\Борисов БЭИС-22\PR1_git\PR1_git\obj\x86\Debug\PR1_git.exe
+D:\Борисов БЭИС-22\PR1_git\PR1_git\obj\x86\Debug\PR1_git.pdb
+D:\PR1_git\PR1_git\obj\x86\Debug\PR1_git.exe
+D:\PR1_git\PR1_git\obj\x86\Debug\PR1_git.pdb
